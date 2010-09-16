@@ -15,6 +15,36 @@ DINT_FKKOP-OPTXT Pen.FURN. EN. - Real
 DINT_FKKOP-BETRH              0,03
 DULINE __________________________________________________________________________
 DULINE __________________________________________________________________________
+DINT_FKKOP-OPTXT Pen.FURN. EN. - Real
+DINT_FKKOP-BETRH              0,04
+DULINE __________________________________________________________________________
+DULINE __________________________________________________________________________
+DINT_FKKOP-OPTXT Pen.FURN. EN. - Real
+DINT_FKKOP-BETRH              0,05
+DULINE __________________________________________________________________________
+DULINE __________________________________________________________________________
+DINT_FKKOP-OPTXT Pen.FURN. EN. - Real
+DINT_FKKOP-BETRH              0,06
+DULINE __________________________________________________________________________
+DULINE __________________________________________________________________________
+DINT_FKKIA_TXT-OPBEL 100000010
+DINT_FKKIA_TXT-ABDAT 01.08.2010
+DINT_FKKIA_TXT-BISDAT 19.08.2010
+DINT_FKKIA_TXT-BETRW       2,93
+DNRZ         19
+DINT_FKKIA_TXT-IRATE   0,0500000
+DINT_FKKIA_TXT-IBTRG       0,03
+DULINE __________________________________________________________________________
+DULINE __________________________________________________________________________
+DINT_FKKIA_TXT-OPBEL 100000010
+DINT_FKKIA_TXT-ABDAT 01.08.2010
+DINT_FKKIA_TXT-BISDAT 19.08.2010
+DINT_FKKIA_TXT-BETRW       2,93
+DNRZ         19
+DINT_FKKIA_TXT-IRATE   0,0500000
+DINT_FKKIA_TXT-IBTRG       0,03
+DULINE __________________________________________________________________________
+DULINE __________________________________________________________________________
 DINT_FKKIA_TXT-OPBEL 100000010
 DINT_FKKIA_TXT-ABDAT 01.08.2010
 DINT_FKKIA_TXT-BISDAT 19.08.2010
