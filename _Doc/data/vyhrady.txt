@@ -1,0 +1,22 @@
+1. V rdi pro FI-CA_04_GAS i FI-CA_05_GAS je Event ZEFISS01G, kdežto já v projektu oèekávám ZEFI04G pro projekt FI-CA_04_GAS, 
+    a  ZEFI05G pro projekt FI-CA_05_GAS.
+2. Projekt FI-CA_04_GAS:
+    a) v rdi chybí pole pro tabulku: DGW_VAAD-FANR, DGW_VAAD-DATAEM, DGW_VAAD-VALFA a DGW_VAAD-PUNCON. Možná tam ty fieldy jsou pod jiným jménem,
+      ale to nepoznám.
+    b) v marginálu není zobrazen název spoleènosti, protože v datech se field jmenuje DGW_MGAS-NUME, kdežto v projektu DGW_MGAS-DENCOM. Je potøeba 
+    to v projektu opravit.
+    c) v prostøedku marginálu nejsou zobrazeny jména a funkce. V projektu jsou to fieldy DGW_MCON_DIR-NUME, DGW_MCON_DIR-PRENUME a DGW_MCON_DIR-POZITIA.
+      V datech buï chybí nebo se jmenují jinak.
+      
+3. Projekt FI-CA_05_GAS:
+    a) v rdi chybí pole pro tabulku: DGW_CONDIS-DOC, DGW_CONDIS-EXPL a DGW_CONDIS-SUM. Možná tam ty fieldy jsou pod jiným jménem,
+      ale to nepoznám.          
+    b) v marginálu není zobrazen název spoleènosti, protože v datech se field jmenuje DGW_MGAS-NUME, kdežto v projektu DGW_MGAS-DENCOM. Je potøeba 
+    to v projektu opravit.
+    c) v marginálu chybí ulice u spoleènosti - chyba v projektu, zapomnìl jsem ten field do layoutu pøidat.
+    d) v prostøedku marginálu nejsou zobrazeny jména a funkce. V projektu jsou to fieldy DGW_MCON_DIR-NUME, DGW_MCON_DIR-PRENUME a DGW_MCON_DIR-POZITIA.
+      V datech buï chybí nebo se jmenují jinak.
+    e) v marginálu nerozumím tomu, jak se maji zobrazovat fieldy DGW_MCAPITALSOC-LEI, DGW_MCAPITALSOC-BANK_NUM1, DGW_MCAPITALSOC-BANK_NAME1, 
+      DGW_MCAPITALSOC-BANK_NUM2, DGW_MCAPITALSOC-BANK_NAME2,  DGW_MCAPITALSOC-BANK_NUM3, DGW_MCAPITALSOC-BANK_NAME3, takže se tam teï zobrazuje jen 
+      ten DGW_MCAPITALSOC-LEI
+     
